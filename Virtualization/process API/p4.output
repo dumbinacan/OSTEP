@@ -1,0 +1,3 @@
+ 29 119 949 p3.c
+hello world (pid:39520)
+hello, I am parent of 39521 (rc_wait:39521) (pid:39520)
